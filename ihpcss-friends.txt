@@ -1,8 +1,8 @@
 * Elsa
   - LNLL
-  - Jogging
 * Binjamin
   - Cape Town
+  - Jogging
 * Chloe
   - Georgia Tech
   - Playing cricket
