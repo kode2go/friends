@@ -2,3 +2,5 @@
   - LNLL
 * Binjamin
   - Cape Town
+* Chloe
+  - Georgia Tech
